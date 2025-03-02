@@ -22,10 +22,9 @@ Explore the students data using PostgreSQL to find out if you would come to a si
 | `tosc`          | Total score of social connectedness (SCS test)   |
 | `toas`          | Total score of acculturative stress (ASISS test) |
 
-
 ## Repository Files
 
-- `students_mental_health.csv` - The dataset used for this analysis.
+- `students.csv` - The dataset used for this analysis.
 
 - `notebook.ipynb` - My completed notebook from DataCamp.
 
